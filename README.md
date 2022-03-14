@@ -14,6 +14,6 @@ Group Members: Tian Lan, William LaHaye
 
 ./data/wget_RADIAL.bat: Execute this batch file to download all radial velocity time series data files we use. There are more than 1000 of them.
 
-./parse.py: The code we wrote to parse the radial velocity time series data files.
+./parse.py: The code we wrote to parse the radial velocity time series data files. #(You may want to read this.)
 
-./table_parser.py: The code we wrote to parse the PS_2022.03.11_13.14.43.csv file.
+./table_parser.py: The code we wrote to parse the PS_2022.03.11_13.14.43.csv file. #(You may want to read this.)
