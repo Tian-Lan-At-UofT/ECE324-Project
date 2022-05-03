@@ -16,6 +16,8 @@ Group Members: Tian Lan
 
 ./README.md: This file.
 
-# ./parse.py: The code we wrote to parse the radial velocity time series data files. (You may want to read this.)
+# ./parse_folder.ipynb: The code we wrote to parse the radial velocity time series data files. (You may want to read this.)
 
-# ./table_parser.py: The code we wrote to parse the PS_2022.03.11_13.14.43.csv file. (You may want to read this.)
+# ./parse_table.ipynb: The code we wrote to parse the PS_2022.03.11_13.14.43.csv file. (You may want to read this.)
+
+# ./main.ipynb: The code of our model, loss function and optimizer. (Contains the updated version of codes of the files above.)(You may want to read this.)
