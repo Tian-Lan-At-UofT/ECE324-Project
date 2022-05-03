@@ -2,7 +2,7 @@
 
 Project Topic: Exoplanet Detection
 
-Group Members: Tian Lan, William LaHaye
+Group Members: Tian Lan
 
 # Explaination for the folder's contents:
 
